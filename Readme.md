@@ -12,7 +12,7 @@ The emulator provides a backend that can execute 8085 assembly code and simulate
 ### Unified Modelling Diagram(UML) of 8085 Emulator
 
  ```markdown
-   ![Project Files](images/UML.png)
+   ![Project Files](8085_EMULATOR/images/UML.png)
 
 ## Getting Started
 
@@ -21,6 +21,7 @@ The emulator provides a backend that can execute 8085 assembly code and simulate
 - C++ compiler (e.g., GCC)
 - 
 ### Building the Emulator
+
 
 To build the emulator, follow these steps:
 
@@ -45,5 +46,5 @@ You can input the program and data instructions in two ways:
 ### Example
 
  ```markdown
-   ![Project Files](images/Demo.png)
+   ![Project Files](8085_EMULATOR/images/Demo.png)
 
