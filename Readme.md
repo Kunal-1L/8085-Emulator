@@ -11,7 +11,6 @@ The emulator provides a backend that can execute 8085 assembly code and simulate
 
 ### Unified Modelling Diagram(UML) of 8085 Emulator
 
- ```markdown
    ![Project Files](images/UML.png)
 
 ## Getting Started
