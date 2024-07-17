@@ -44,6 +44,5 @@ You can input the program and data instructions in two ways:
 
 ### Example
 
- ```markdown
    ![Project Files](images/Demo.png)
 
